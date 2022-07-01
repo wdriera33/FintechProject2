@@ -1,8 +1,8 @@
-# Insurance Rater 
+
 ![alt text](https://raw.githubusercontent.com/wdriera33/FintechProject2/main/Insturance%20truck.png "Logo Title Text 1")
 
 
-# Trucking Insurance 
+# Trucking Insurance Rater 
 
  
 ## Overview and Origin
